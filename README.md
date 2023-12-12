@@ -1,14 +1,7 @@
-### Hi there 👋
+### Hi there 👋 Thanks for checking out my professional statement!
 
 <!--
 **WangrudCodes/WangrudCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-
-- 🔭 I’m currently working on my masters in computer science at Georgia Tech. 
-- 🌱 I’m currently learning alot, how to use git, how to code, Java and Data Structures and Algorithms are my current focus. 
-- 🤔 I’m looking for help with adding git repositories to vs code
-- 💬 Ask me about electrical engineering
-- 📫 How to reach me: Check out my Resume
-- ⚡ Fun fact: I have a step brother with the same name.
+I am a highly motivated cybersecurity engineer who strives to make the workplace more ethically balanced. To achieve that goal I actively work to create tools and procedures that help detect and analyze potential threats, risks and vulnerabilities to ensure that data remain confidential and available. 
 -->
